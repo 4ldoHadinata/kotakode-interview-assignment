@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kotakode-interview-assignment/static/css/main.a3accfed.chunk.css",
+    "main.js": "/kotakode-interview-assignment/static/js/main.dca52908.chunk.js",
+    "main.js.map": "/kotakode-interview-assignment/static/js/main.dca52908.chunk.js.map",
+    "runtime-main.js": "/kotakode-interview-assignment/static/js/runtime-main.c597d623.js",
+    "runtime-main.js.map": "/kotakode-interview-assignment/static/js/runtime-main.c597d623.js.map",
+    "static/js/2.744fca30.chunk.js": "/kotakode-interview-assignment/static/js/2.744fca30.chunk.js",
+    "static/js/2.744fca30.chunk.js.map": "/kotakode-interview-assignment/static/js/2.744fca30.chunk.js.map",
+    "index.html": "/kotakode-interview-assignment/index.html",
+    "precache-manifest.f733ad77e728c902732c3c3c17a3d546.js": "/kotakode-interview-assignment/precache-manifest.f733ad77e728c902732c3c3c17a3d546.js",
+    "service-worker.js": "/kotakode-interview-assignment/service-worker.js",
+    "static/css/main.a3accfed.chunk.css.map": "/kotakode-interview-assignment/static/css/main.a3accfed.chunk.css.map",
+    "static/js/2.744fca30.chunk.js.LICENSE.txt": "/kotakode-interview-assignment/static/js/2.744fca30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c597d623.js",
+    "static/js/2.744fca30.chunk.js",
+    "static/css/main.a3accfed.chunk.css",
+    "static/js/main.dca52908.chunk.js"
+  ]
+}
