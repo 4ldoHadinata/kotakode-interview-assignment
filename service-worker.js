@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kotakode-interview-assignment/precache-manifest.f733ad77e728c902732c3c3c17a3d546.js"
+  "/kotakode-interview-assignment/precache-manifest.a2f889263e2de9b52f1a8b0db925ebaa.js"
 );
 
 self.addEventListener('message', (event) => {

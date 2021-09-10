@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9b3c4666cb8182cded1f6e700859322",
+    "revision": "43a674ff74f3d79b6491bd66f113931e",
     "url": "/kotakode-interview-assignment/index.html"
   },
   {
-    "revision": "6f8d88f3508004489415",
-    "url": "/kotakode-interview-assignment/static/css/main.a3accfed.chunk.css"
+    "revision": "e7ddcf64dcbb419827bd",
+    "url": "/kotakode-interview-assignment/static/css/main.0b5b4874.chunk.css"
   },
   {
     "revision": "d143df103890d7ed09a9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kotakode-interview-assignment/static/js/2.744fca30.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f8d88f3508004489415",
+    "revision": "e7ddcf64dcbb419827bd",
     "url": "/kotakode-interview-assignment/static/js/main.dca52908.chunk.js"
   },
   {
